@@ -20,7 +20,10 @@ function App() {
                     />
                 </a>
             </div>
-            <h1>Vite + React</h1>
+            <h1>Team Ye Moe, Zachary Stybel, Sajedul Hossain</h1>
+            <p>
+                We are all computer science students in our junior years.
+            </p>
             <div className="card">
                 <button onClick={() => setCount((count) => count + 1)}>
                     count is {count}
